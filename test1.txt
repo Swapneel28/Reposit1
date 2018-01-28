@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 102A-A236
+
+ Directory of C:\Users\Swapnil Redekar\Desktop\MyProject
+
+01/28/2018  04:09 PM    <DIR>          .
+01/28/2018  04:09 PM    <DIR>          ..
+01/28/2018  04:09 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  301,209,952,256 bytes free
